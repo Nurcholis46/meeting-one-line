@@ -12,6 +12,7 @@ import { chmodSync, mkdirSync, readFileSync, renameSync, writeFileSync } from "n
 // has sat through a sync about a sync recognizes it instantly, which is
 // what the pairwise judge weighs. Short enough to forward as-is, and
 // final enough that no follow-up meeting can resurrect itself from it.
+// The deadpan finality is the point — no hedging, no next steps.
 //
 // Gate, verified against the kit RULES.txt: /output/entry.txt must be
 // UTF-8 text of 1 to 200 characters, not only white space. This line is
